@@ -1,0 +1,132 @@
+PS D:\Miraclesoft\BookRecommendation_System> py -u "d:\Miraclesoft\BookRecommendation_System\Book-RecommendationSystem2.py"
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 1
+Enter book title: To Kill a Mockingbird
+Enter author name: Harper Lee
+Enter genre: Fiction
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 1
+Enter book title: The Great Gatsby
+Enter author name: F. Scott
+Enter genre: Classic
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 1
+Enter book title: Gone Girl 
+Enter author name: Gillian Flynn
+Enter genre: Psychological Thriller
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 2
+1. Title: To Kill a Mockingbird, Author: Harper Lee, Genre: Fiction
+2. Title: The Great Gatsby, Author: F. Scott, Genre: Classic
+3. Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 3
+Enter your username: user1
+Select a book to rate:
+1. Title: To Kill a Mockingbird, Author: Harper Lee, Genre: Fiction
+2. Title: The Great Gatsby, Author: F. Scott, Genre: Classic
+3. Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+Enter the number of the book you want to rate: 1
+Enter your rating for To Kill a Mockingbird (1-5): 4
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 3
+Enter your username: user1
+Select a book to rate:
+1. Title: To Kill a Mockingbird, Author: Harper Lee, Genre: Fiction
+2. Title: The Great Gatsby, Author: F. Scott, Genre: Classic
+3. Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+Enter the number of the book you want to rate: 2
+Enter your rating for The Great Gatsby (1-5): 5
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 3
+Enter your username: user1
+Select a book to rate:
+1. Title: To Kill a Mockingbird, Author: Harper Lee, Genre: Fiction
+2. Title: The Great Gatsby, Author: F. Scott, Genre: Classic
+3. Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+Enter the number of the book you want to rate: 3
+Enter your rating for Gone Girl (1-5): 5
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 4
+Enter your username: user1
+
+Recommendations:
+User Ratings: {'To Kill a Mockingbird': 4.0, 'The Great Gatsby': 5.0, 'Gone Girl': 5.0}
+Favorite Genres: {'Fiction': 1, 'Classic': 1, 'Psychological Thriller': 1}
+No recommendations available.
+
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 5
+Enter title prefix to search: Go
+Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 5
+Enter title prefix to search: Go
+Title: Gone Girl, Author: Gillian Flynn, Genre: Psychological Thriller
+
+1. Add Book
+2. View Books
+3. Rate Book
+4. Get Recommendations
+5. Search Books
+6. Exit
+Enter choice: 6
+PS D:\Miraclesoft\BookRecommendation_System> 

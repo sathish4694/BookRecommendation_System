@@ -1,0 +1,17 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott",
+        "genre": "Classic"
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Psychological Thriller"
+    }
+]
